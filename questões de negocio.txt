@@ -1,0 +1,5 @@
+Qual loja mais vende
+Qual produto mais vende
+Qual fabricante mais vende
+Qual a venda de maior e menor lucro
+Epoca de maior venda
